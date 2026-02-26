@@ -60,7 +60,7 @@ When I'm not coding, I'm probably thinking about coding. It's fine, I've accepte
 
 <div align="center">
 
-![Maksim's GitHub Stats](https://readme-stats.vercel.app/api?username=MaxGrushevsky&show_icons=true&theme=tokyonight)
+![Maksim's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=MaxGrushevsky&theme=tokyonight&hide_border=true)
 
 </div>
 
