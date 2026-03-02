@@ -8,11 +8,18 @@ I build **web and mobile products** that actually work — fast, clean, and main
 When I'm not coding, I'm probably thinking about coding. It's fine, I've accepted it.
 
 ---
+[![My Skills](https://skillicons.dev/icons?i=js,ts&perline=9)](https://skillicons.dev)
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,less,pug,tailwind,materialui,webpack,js,ts,vue,vuetify,react,redux,nextjs,remix,angular&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,less,pug&perline=9)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,styledcomponents,webpack,babel,js,ts,jquery,vue,vuetify,react,redux,nextjs,remix,angular&perline=9)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=jquery,vue,vuetify,react,redux,nextjs,remix,angular&perline=9)](https://skillicons.dev)
+
+
 <!--
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -27,6 +34,16 @@ When I'm not coding, I'm probably thinking about coding. It's fine, I've accepte
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 ### Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,grafana,jest&perline=9)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=elasticsearch,grafana,postman,regex&perline=9)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=docker,jenkins,kubernetes,postman&perline=9)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=apollo,kafka,rabbitmq&perline=9)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=aws,heroku,vercel&perline=9)](https://skillicons.dev)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -40,6 +57,8 @@ When I'm not coding, I'm probably thinking about coding. It's fine, I've accepte
 ![Cordova](https://img.shields.io/badge/Cordova-E8E8E8?style=for-the-badge&logo=apachecordova&logoColor=black)
 
 ### Databases
+[![My Skills](https://skillicons.dev/icons?i=redis,mongodb,mysql,postgres,prisma,sqlite&perline=9)](https://skillicons.dev)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
