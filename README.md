@@ -15,7 +15,7 @@ When I'm not coding, I'm probably thinking about coding. It's fine, I've accepte
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,less,pug&perline=9)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,styledcomponents,webpack,babel,js,ts,jquery,vue,vuetify,react,redux,nextjs,remix,angular&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,styledcomponents,webpack,babel&perline=9)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=jquery,vue,vuetify,react,redux,nextjs,remix,angular&perline=9)](https://skillicons.dev)
 
@@ -34,15 +34,11 @@ When I'm not coding, I'm probably thinking about coding. It's fine, I've accepte
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,grafana,jest&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql&perline=9)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=elasticsearch,grafana,postman,regex&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apollo,kafka,rabbitmq,firebase&perline=9)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,jenkins,kubernetes,postman&perline=9)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=apollo,kafka,rabbitmq&perline=9)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=aws,heroku,vercel&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,heroku,vercel,azure&perline=9)](https://skillicons.dev)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -57,24 +53,18 @@ When I'm not coding, I'm probably thinking about coding. It's fine, I've accepte
 ![Cordova](https://img.shields.io/badge/Cordova-E8E8E8?style=for-the-badge&logo=apachecordova&logoColor=black)
 
 ### Databases
-[![My Skills](https://skillicons.dev/icons?i=redis,mongodb,mysql,postgres,prisma,sqlite&perline=9)](https://skillicons.dev)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=redis,mongodb,postgres,prisma,mysql,sqlite&perline=9)](https://skillicons.dev)
 
 ### Testing & Quality
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=jest&perline=9)](https://skillicons.dev)
+
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![WCAG](https://img.shields.io/badge/WCAG_2.1-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
 
 ### Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=elasticsearch,grafana,postman&perline=9)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,jenkins,kubernetes,postman,git,githubactions&perline=9)](https://skillicons.dev)
 
 ---
 
@@ -100,8 +90,9 @@ When I'm not coding, I'm probably thinking about coding. It's fine, I've accepte
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhrusheuski)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxGrushevsky)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/mhrusheuski)
+[![GitHub](https://skillicons.dev/icons?i=github&perline=1)](https://github.com/MaxGrushevsky)
+
 
 ---
 
