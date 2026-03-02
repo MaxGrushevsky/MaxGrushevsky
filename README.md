@@ -62,8 +62,6 @@ When I'm not coding, I'm probably thinking about coding. It's fine, I've accepte
 
 ![Maksim's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaxGrushevsky&theme=tokyonight&hide_border=true)
 
-![Maksim's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=MaxGrushevsky)
-
 </div>
 
 ---
