@@ -62,7 +62,7 @@ When I'm not coding, I'm probably thinking about coding. It's fine, I've accepte
 
 ![Maksim's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=MaxGrushevsky&theme=tokyonight&hide_border=true)
 
-![Maksim's Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milevsky76&theme=apprentice)
+![Maksim's Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaxGrushevsky&theme=apprentice)
 
 </div>
 
