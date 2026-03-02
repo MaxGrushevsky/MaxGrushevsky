@@ -12,6 +12,8 @@ When I'm not coding, I'm probably thinking about coding. It's fine, I've accepte
 ## 🛠️ Tech Stack
 
 ### Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,less,pug,tailwind,materialui,js,ts,vue,vuetify,react,redux,nextjs,remix,angular,webpack&perline=5)](https://skillicons.dev)
+<!--
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -20,7 +22,8 @@ When I'm not coding, I'm probably thinking about coding. It's fine, I've accepte
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)-->
+
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 ### Backend
