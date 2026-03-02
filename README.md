@@ -19,18 +19,6 @@ When I'm not coding, I'm probably thinking about coding. It's fine, I've accepte
 
 [![My Skills](https://skillicons.dev/icons?i=jquery,vue,vuetify,react,redux,nextjs,remix,angular&perline=9)](https://skillicons.dev)
 
-
-<!--
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)-->
-
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 ### Backend
@@ -40,12 +28,7 @@ When I'm not coding, I'm probably thinking about coding. It's fine, I've accepte
 
 [![My Skills](https://skillicons.dev/icons?i=aws,heroku,vercel,azure&perline=9)](https://skillicons.dev)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Mobile
@@ -62,9 +45,9 @@ When I'm not coding, I'm probably thinking about coding. It's fine, I've accepte
 ![WCAG](https://img.shields.io/badge/WCAG_2.1-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
 
 ### Tools & DevOps
-[![My Skills](https://skillicons.dev/icons?i=elasticsearch,grafana,postman&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,elasticsearch,grafana,postman,jenkins&perline=9)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,jenkins,kubernetes,postman,git,githubactions&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,kubernetes,githubactions&perline=9)](https://skillicons.dev)
 
 ---
 
