@@ -28,8 +28,6 @@ When I'm not coding, I'm probably thinking about coding. It's fine, I've accepte
 
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Swagger Validator](https://img.shields.io/swagger/valid/3.0)
-
 
 ### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
