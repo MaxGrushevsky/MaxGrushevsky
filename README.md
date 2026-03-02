@@ -15,9 +15,9 @@ When I'm not coding, I'm probably thinking about coding. It's fine, I've accepte
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,less,pug&perline=9)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,styledcomponents,webpack,babel&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,materialui,tailwind,styledcomponents&perline=9)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=jquery,vue,vuetify,react,redux,nextjs,remix,angular&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jquery,react,redux,nextjs,vue,vuetify,angular&perline=9)](https://skillicons.dev)
 
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
@@ -45,12 +45,12 @@ When I'm not coding, I'm probably thinking about coding. It's fine, I've accepte
 ### DevOps
 [![My Skills](https://skillicons.dev/icons?i=aws,heroku,vercel,azure&perline=9)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nginx,kubernetes,githubactions&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,githubactions,nginx&perline=9)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,jenkins&perline=9)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,grafana,postman&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postman,grafana&perline=9)](https://skillicons.dev)
 
 
 
