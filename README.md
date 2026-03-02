@@ -12,7 +12,7 @@ When I'm not coding, I'm probably thinking about coding. It's fine, I've accepte
 ## 🛠️ Tech Stack
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,less,pug,tailwind,materialui,js,ts,vue,vuetify,react,redux,nextjs,remix,angular,webpack&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,less,pug,tailwind,materialui,webpack,js,ts,vue,vuetify,react,redux,nextjs,remix,angular&perline=9)](https://skillicons.dev)
 <!--
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
