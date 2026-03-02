@@ -26,8 +26,6 @@ When I'm not coding, I'm probably thinking about coding. It's fine, I've accepte
 
 [![My Skills](https://skillicons.dev/icons?i=apollo,kafka,rabbitmq,firebase&perline=9)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,heroku,vercel,azure&perline=9)](https://skillicons.dev)
-
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -44,10 +42,15 @@ When I'm not coding, I'm probably thinking about coding. It's fine, I've accepte
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![WCAG](https://img.shields.io/badge/WCAG_2.1-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
 
-### Tools & DevOps
+### DevOps
+[![My Skills](https://skillicons.dev/icons?i=aws,heroku,vercel,azure&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,kubernetes,githubactions&perline=9)](https://skillicons.dev)
+
+### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,elasticsearch,grafana,postman,jenkins&perline=9)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,kubernetes,githubactions&perline=9)](https://skillicons.dev)
+
+
 
 ---
 
