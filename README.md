@@ -63,6 +63,11 @@ When I'm not coding, I'm probably thinking about coding. It's fine, I've accepte
 
 ![Maksim's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaxGrushevsky&theme=tokyonight&hide_border=true)
 
+<p align="center">
+  <a href="https://github.com/MaxGrushevsky/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=MaxGrushevsky&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
+  <a href="https://github.com/MaxGrushevsky/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=MaxGrushevsky&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+</p>
+
 ![trophy](https://github-profile-repo.vercel.app/?username=MaxGrushevsky&theme=algolia&column=4&margin-w=15&margin-h=15)
 
 </div>
