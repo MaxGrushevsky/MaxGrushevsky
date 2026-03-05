@@ -83,7 +83,6 @@ When I'm not coding, I'm probably thinking about coding. It's fine, I've accepte
 - 📱 **Ship** cross-platform mobile apps with React Native
 - ⚡ **Modernize** legacy codebases (jQuery era survivors, I see you)
 - 🧪 **Test** like I actually care about production stability
-- 👥 **Mentor** developers and help teams grow
 
 ---
 
