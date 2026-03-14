@@ -67,7 +67,10 @@ When I'm not coding, I'm probably thinking about coding. It's fine, I've accepte
 ![Maksim's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaxGrushevsky&theme=tokyonight&hide_border=true)
 
 <p align="center">
+    
+<!--
   <a href="https://github.com/MaxGrushevsky?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=MaxGrushevsky&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="MaxGrushevsky's github-readme-stats"/></a>
+  -->
   <a href="https://github.com/MaxGrushevsky/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=MaxGrushevsky&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
 </p>
 
